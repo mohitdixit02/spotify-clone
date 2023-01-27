@@ -1,6 +1,6 @@
 {
   "name": "spotify",
-  "proxy": "http://127.0.0.1:8000",
+  "proxy": "mohitvsht02.pythonanywhere.com",
   "homepage": "https://mohitvsht02.github.io/spotify-clone",
   "version": "0.1.0",
   "private": true,
